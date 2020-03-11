@@ -1,0 +1,10 @@
+﻿  Game.cpp
+C:\Users\Dio\Desktop\Fundemental\Game1007-SDL_Template-master\Game1007-SDL_Template-master\GAME1007_SDL_Template32\SDL_Template32\Game.cpp(72,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dio\Desktop\Fundemental\Game1007-SDL_Template-master\Game1007-SDL_Template-master\GAME1007_SDL_Template32\SDL_Template32\Game.cpp(73,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dio\Desktop\Fundemental\Game1007-SDL_Template-master\Game1007-SDL_Template-master\GAME1007_SDL_Template32\SDL_Template32\Game.cpp(76,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dio\Desktop\Fundemental\Game1007-SDL_Template-master\Game1007-SDL_Template-master\GAME1007_SDL_Template32\SDL_Template32\Game.cpp(76,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dio\Desktop\Fundemental\Game1007-SDL_Template-master\Game1007-SDL_Template-master\GAME1007_SDL_Template32\SDL_Template32\Game.cpp(102,25): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Sprite.cpp
+  Generating Code...
+  SDL_Template32.vcxproj -> C:\Users\Dio\Desktop\Fundemental\Game1007-SDL_Template-master\Game1007-SDL_Template-master\GAME1007_SDL_Template32\Debug\SDL_Template32.exe
